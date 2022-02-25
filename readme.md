@@ -1,0 +1,1 @@
+Esse projeto tem como objetivo criar um bot para o discord usando JavaScript
